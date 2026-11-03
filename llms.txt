@@ -1,0 +1,42 @@
+# Ahmed Ashraf — Data Scientist & AI Engineer
+
+> Builds AI products that run real operations: TINDA, QUBE, Metron. Arabic and English. Cairo, Egypt · Riyadh / Remote.
+
+Ahmed Ashraf is a data scientist and AI engineer at Deep Blue Startup Studios. He ships agentic systems, industrial AI, and product platforms — not demos.
+
+## Key facts
+- Role: Data Scientist & AI Engineer
+- Studio: Deep Blue Startup Studios (Riyadh, remote)
+- Location: Cairo, Egypt (also serves Saudi Arabia / MENA)
+- Languages: Arabic, English
+- Phone: +20 1062798081
+- Email: ahmed.datascince@gmail.com
+- Official site: https://ahmed-ds-ml.github.io/
+
+## Products
+- [TINDA — AI automotive platform](https://ahmed-ds-ml.github.io/project/tinda): Saudi vehicle diagnosis → parts → checkout. Live: https://app.tinda.sa/
+- [QUBE — digital commerce product](https://ahmed-ds-ml.github.io/project/qube): discovery → conversion UX and architecture
+- [Metron — industrial AI OS](https://ahmed-ds-ml.github.io/project/metron): live OEE, downtime ownership, recommend → approve → act
+- [Cycle time analytics](https://ahmed-ds-ml.github.io/project/cycle-time)
+- [OEE platform](https://ahmed-ds-ml.github.io/project/oee-platform)
+- [AI automation platform](https://ahmed-ds-ml.github.io/project/ai-automation-platform)
+
+## FAQ (short)
+- Problems: AI products where models, automation, and operations meet — marketplaces, ERP-linked factory intelligence, agentic pipelines.
+- Products vs consulting: ships client systems and product platforms (TINDA, QUBE, Metron).
+- Engagements: discovery → scoped pilot with metrics → rollout.
+- Differentiator: product thinking + shop-floor reality, Arabic and English UX.
+
+## Arabic
+- [Arabic home](https://ahmed-ds-ml.github.io/ar)
+- [تيندا](https://ahmed-ds-ml.github.io/ar/project/tinda)
+- [كيوب](https://ahmed-ds-ml.github.io/ar/project/qube)
+- [ميترون](https://ahmed-ds-ml.github.io/ar/project/metron)
+
+## Elsewhere
+- LinkedIn: https://www.linkedin.com/in/ahmed-datascince/
+- GitHub: https://github.com/Ahmed-DS-ML
+- X: https://x.com/AhmedAshra31860
+- Kaggle: https://www.kaggle.com/engahmedashraf
+
+Last updated: 2026-11-03
